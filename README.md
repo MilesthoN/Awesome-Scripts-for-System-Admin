@@ -10,7 +10,7 @@ Awesome collection of scripts for system administrators
 - .ps1 — PowerShell
 - .reg — Regedit
 - .vbs — VBS
-- .lnk
+- .lnk — Shortcuts
 
 ***
 
