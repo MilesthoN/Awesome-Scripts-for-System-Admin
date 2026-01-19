@@ -6,10 +6,10 @@
 Awesome collection of scripts for system administrators
 Потрясающая коллекция скриптов для системных администраторов
 
-- CMD
-- PowerShell
-- Regedit
-- VBS
+- .bat — CMD batch
+- .ps1 — PowerShell
+- .reg — Regedit
+- .vbs — VBS
 - .lnk
 
 ***
